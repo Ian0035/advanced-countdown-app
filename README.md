@@ -27,7 +27,7 @@ To align with the "AI-optimized workflow" requirement, I utilized a multi-model 
 ## 📦 Technical Stack
 * **Framework:** React Native (Expo Go)
 * **Language:** TypeScript
-* **State Management:** *[Insert yours here, e.g., Zustand / Redux Toolkit / Context]*
+* **State Management:** Zustand
 * **Logic:** Global 1-second synchronization ticker.
 
 ## 🚀 How to Run
@@ -45,12 +45,6 @@ To align with the "AI-optimized workflow" requirement, I utilized a multi-model 
     npx expo start
     ```
 4.  **View on Device:** Scan the QR code using the **Expo Go** app (iOS/Android).
-
-## 🎨 Next Steps: The "Loofers" Polish
-The next phase of this project involves styling the application to match the **Loofers** brand identity.
-* **`STYLEGUIDE.md`:** Currently being drafted based on the Loofers website color palette and typography.
-* **Animations:** Implementing **Reanimated** for fluid transitions in the countdown list and the global urgency banner.
-* **Gaming UX:** Adding haptic feedback and interactive elements to provide a "game-like" feel to the interface.
 
 ---
 *Developed as a technical showcase for Loofers ApS.*
